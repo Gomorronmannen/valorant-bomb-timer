@@ -10,12 +10,16 @@ A simple tool to help with spike timing in Valorant.  (Yes i use it for cheating
    - Make sure you have **Python 3.8 or newer** installed.  
    - During installation, check the box: **“Add Python to PATH”**.  
    - [Download Python here](https://www.python.org/downloads/)
+  
+2. **Download the Zip**
+   - [Download here](https://github.com/Gomorronmannen/valorant-bomb-timer/archive/refs/heads/main.zip)
+   - This will give you a zip file with all required files for this tool/cheat.
 
-2. **Install required packages**
+3. **Install required packages**
    - Run **`SETUP.bat`**  
    - This will automatically install all the necessary Python packages.
 
-3. **Launch the Spike Timer**
+4. **Launch the Spike Timer**
    - Run **`Valorant Bomb Timer.bat`**  
    - The timer will start and be ready to use.
 
